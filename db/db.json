@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "arroz",
+      "descricao": "carioquinha - 5kg",
+      "valor": "21.00",
+      "disponibilidade": "sim"
+    },
+    {
+      "id": 2,
+      "nome": "feijao",
+      "descricao": "carioquinha - 2kg",
+      "valor": "18,00",
+      "disponibilidade": "nao"
+    },
+    {
+      "id": 3,
+      "nome": "leite",
+      "descricao": "carioquinha - 1l",
+      "valor": "4,55",
+      "disponibilidade": "sim"
+    },
+    {
+      "nome": "geladeira",
+      "valor": "10000",
+      "descricao": "frost free",
+      "disponibilidade": "Sim",
+      "id": 4
+    },
+    {
+      "nome": "Copos plástico ",
+      "valor": "10,00",
+      "descricao": "descartáveis ",
+      "disponibilidade": "Sim",
+      "id": 5
+    }
+  ]
+}

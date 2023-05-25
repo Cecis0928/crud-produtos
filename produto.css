@@ -1,0 +1,15 @@
+@charset "pt-BR";
+
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-block: 12px;
+
+}
+
+.form-modal {
+    display: grid;
+    grid-template-columns: repeat(2, 200px);
+    gap: 15px;
+}
